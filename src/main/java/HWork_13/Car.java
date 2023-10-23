@@ -143,6 +143,6 @@ public class Car {
                 " т, колич. сидений = " + seats +
                 " шт., тип кузова = " + carType +
                 ", maxSpeed = " + maxSpeed +
-                " км/час, доп.инфо = " + additionalInfo;
+                " км/час, доп. инфо = " + additionalInfo;
     }
 }
