@@ -1,4 +1,4 @@
-package HWork_13;
+package org.example.HWork_13;
 
 public class Car {
     private String model;
